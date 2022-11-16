@@ -1,1 +1,1 @@
-![text portrait](/images/logo2.gif);
+![text portrait](/images/text-portrait.jpg);
